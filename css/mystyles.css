@@ -1,0 +1,37 @@
+body {
+   background-image: url('/assets/img/family.jpg');
+}
+.h1{
+   color: rgb(170, 128, 73);
+}
+
+.bio {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.section{
+   background-color: burlywood;
+}
+
+.visitbyu {
+   background-color: burlywood;
+}
+
+.quote{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 18px;
+   font-weight: bold ;
+   font-style: oblique;
+}
+
+.myfave{
+   color:rgb(170, 128, 73)
+}
+
+.abtme {
+   color:rgb(170, 128, 73)
+}
+
+.moreabtme {
+   background-color: rgb(235, 232, 229);
+}
